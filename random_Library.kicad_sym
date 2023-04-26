@@ -6,7 +6,7 @@
     (property "Value" "" (at 7.62 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 7.62 20.32 0)
+    (property "Footprint" "random-Library:Waveshare RP2040-Zero-TH" (at 1.27 -36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 7.62 20.32 0)

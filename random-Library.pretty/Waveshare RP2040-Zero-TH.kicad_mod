@@ -1,6 +1,6 @@
 (footprint "Waveshare RP2040-Zero-TH" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr smd)
+  (attr through_hole)
   (fp_text reference "REF**" (at 0 -13.97 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 81eb99d2-a1dc-4977-8370-ab86d0f29abf)
